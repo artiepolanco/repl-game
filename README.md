@@ -1,6 +1,6 @@
 # README 
 
-## REPL GAME
+## Wyncode XP - the REPL GAME
 
 ### Description
 
